@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Enquete</string>
+    <string name="text_enquete">Dentre os três, qual você considera ser o melhor time?</string>
+    <string name="text_resultado">O melhor time é:</string>
+    <string name="btn_votar">Votar</string>
+    <string name="text_option1">Inter</string>
+    <string name="text_option2">Grêmio</string>
+    <string name="text_option3">Caxias</string>
+    <string name="text_result">Voto Confirmado</string>
+    <string name="text_votos">Votos Registrados: %1$s</string>
+</resources>
